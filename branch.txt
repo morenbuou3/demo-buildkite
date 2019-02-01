@@ -1,3 +1,4 @@
 master 2.1.4
+chmod +x for script.sh and post pre sh
 add ssh key in docker
 test buildkite build
